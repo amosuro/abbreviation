@@ -1,0 +1,21 @@
+{
+  "name": "abbreviate",
+  "version": "1.0.0",
+  "description": "A coding exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-loader": "^5.4.2",
+    "jasmine": "^2.6.0",
+    "jasmine-core": "^2.6.2",
+    "karma": "^0.13.22",
+    "karma-chrome-launcher": "^2.1.1",
+    "karma-jasmine": "^0.3.8",
+    "karma-webpack": "^1.8.1",
+    "webpack": "^1.15.0"
+  }
+}

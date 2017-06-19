@@ -1,0 +1,2 @@
+- `npm install`
+- `karma start` to run tests
